@@ -18,3 +18,4 @@ Add any other context or screenshots about the story here.
 
 **Complete the following checks:**
 - [ ] Add separate labels for each technology field or language required for completing this story e.g. `sql`, `reactJS` or `terraform`.
+- [ ] Add Milestone
